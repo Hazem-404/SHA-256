@@ -28,10 +28,10 @@
 ## Who Are We ?
 
 - [Hazem Abdelsattar Mohammed ](https://github.com/Hazem-404) : Team Leader
-- [ Hazem Mohamed Hassan ElRawi ](https://github.com/Hazem-404) : Code Creator
-- [Nada Khalid Mobarak ](https://github.com/Hazem-404) : Content Creator
-- [Mai Abdallah Abdulaziz Abdullah ](https://github.com/Hazem-404) : Content Creator
-- [Mohamed Omran Yassin ](https://github.com/Hazem-404) : Just for fun
+- [ Hazem Mohamed Hassan ElRawi ](https://github.com/HazemRawi) : Code Creator
+- [Nada Khalid Mobarak ](https://github.com/nadaKhalid13) : Content Creator
+- [Mai Abdallah Abdulaziz Abdullah ](https://github.com/maiabdallah7) : Content Creator
+- [Mohamed Omran Yassin ](https://github.com/MohamedOmran890) : Just for fun
 
 
 
