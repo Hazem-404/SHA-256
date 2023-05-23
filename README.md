@@ -26,11 +26,7 @@ reliable encryption algorithm that plays a crucial role in modern cryptography
 
 ## Team behind this piece of art
 
-- [Jamela Ahmed ](https://github.com/Jameeelaahmed)
-- [Aya Abdelkhalk Ahmed](https://github.com/AyaAbdelkhalk)
-- [Shimaa Mohamed Taky](https://github.com/shimaamhmd)
-- [Sama Mohamed Abdelmohsen](https://github.com/Samaamhmd)
-- [Alyaa Mamoon](https://github.com/alyaa999)
+- [Hazem Abdelsattar Mohammed ](https://github.com/Hazem-404)
 
 
 
