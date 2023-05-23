@@ -25,6 +25,8 @@
   
 * SHA-256 is a highly secure and reliable encryption algorithm that plays a crucial role in modern cryptography.
 
+## The Report of SHA-256
+# - [Report Link](https://github.com/Hazem-404/SHA-256/blob/master/SHA-256%20Report.pdf)
 ## Who Are We ?
 
 - [Hazem Abdelsattar Mohammed ](https://github.com/Hazem-404) : Team Leader
